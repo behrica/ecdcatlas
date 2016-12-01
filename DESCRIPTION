@@ -3,8 +3,8 @@ Title: Gives access to the Atlas API of ECDC
 Version: 0.0.0.9000
 Authors@R: person("Carsten", "Behring", email = "carsten.behring@esfa.europa.eu", role = c("aut", "cre"))
 Description: This package is a wrapper around the ECDC API for access data on
-    cases zonotic diseases in humans. The full API can be explored here: http://
-    atlas.ecdc.europa.eu/public/AtlasService/rest/help .
+    cases of zonotic diseases in humans. The full API can be explored here: 
+    http://atlas.ecdc.europa.eu/public/AtlasService/rest/help .
 Imports:
     dplyr,
     readr,
@@ -13,3 +13,5 @@ Imports:
     httr
 RoxygenNote: 5.0.1
 License: GPL-3
+URL: https://github.com/behrica/ecdcatlas
+BugReports: https://github.com/behrica/ecdcatlas/issues
