@@ -3,12 +3,12 @@
 \name{GetHealthTopics}
 \alias{GetHealthTopics}
 \title{Requests all helath topics from API.
-Calls enpoint http://atlas.ecdc.europa.eu/public/AtlasService/rest/GetHealthTopics}
+Calls endpoint http://atlas.ecdc.europa.eu/public/AtlasService/rest/GetHealthTopics}
 \usage{
 GetHealthTopics()
 }
 \description{
 Requests all helath topics from API.
-Calls enpoint http://atlas.ecdc.europa.eu/public/AtlasService/rest/GetHealthTopics
+Calls endpoint http://atlas.ecdc.europa.eu/public/AtlasService/rest/GetHealthTopics
 }
 
