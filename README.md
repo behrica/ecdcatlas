@@ -11,7 +11,7 @@ You can install ecdcatlas from github with:
 
 ```R
 # install.packages("devtools")
-devtools::install_github("ecdcatlas/behrica")
+devtools::install_github("behrica/ecdcatlas")
 ```
 
 ## Example
